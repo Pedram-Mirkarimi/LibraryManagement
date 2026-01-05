@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# User-specific files
+*.userprefs
+*.userosscache
+
+# NuGet
+packages/
+*.nupkg
+
+# Database
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+*.dbmdl
+*.sdf
